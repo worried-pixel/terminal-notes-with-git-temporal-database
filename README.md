@@ -8,7 +8,7 @@ context, and navigate instantly through infinite hierarchies.
 
 
 # Clone the memory system
-git clone https://github.com/yourusername/terminal-notes
+git clone https://github.com/worried-pixel/terminal-notes-with-git-temporal-database
 
 # Enter your new digital hippocampus
 cd terminal-notes
